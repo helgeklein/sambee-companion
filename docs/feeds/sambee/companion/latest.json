@@ -1,8 +1,8 @@
 {
   "assets": {
-    "windows-x64": "https://github.com/helgeklein/sambee-companion/releases/download/companion-v0.5.1/Sambee.Companion_0.5.1_x64-setup.exe"
+    "windows-x64": "https://github.com/helgeklein/sambee-companion/releases/download/companion-v0.6.0/Sambee.Companion_0.6.0_x64-setup.exe"
   },
   "notes": "See the assets below to download and install.",
-  "published_at": "2026-03-28T21:35:05Z",
-  "version": "0.5.1"
+  "published_at": "2026-04-20T22:20:58Z",
+  "version": "0.6.0"
 }
