@@ -2,10 +2,10 @@
   "notes": "See the assets below to download and install.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVnEzSFlCSnpLS2lsR0dZN3p3Qmg0VXF4TzFuSVdSWUVOZk0yeUk3ckc2aEN2d0dKWVlRbWtXTTYzSWprZU1tM25qQ2Y2ZytSVk9ydDVYd2wvckxRd1ZqTmw0RGgxM3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjYxMTQ1CWZpbGU6U2FtYmVlIENvbXBhbmlvbl8wLjcuMF94NjQtc2V0dXAuZXhlCmZGVHJhOXZ0OXFrZ21iZFJVZVg1ZDliTTZZSGJzeUFOS2JRdjMrTjNvTTJCS0NhdWo0Z3RyR1hLeWVCanRoeVpyUVdzNDAyb0pIY2JsMEFLOEtQVkF3PT0K",
-      "url": "https://github.com/helgeklein/sambee-companion/releases/download/companion-v0.7.0/Sambee.Companion_0.7.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVnEzSFlCSnpLS3NBdlp4c05PYXJMZjJiWGZWS0F5U1ord2lEV0NXSlA2RzZMT3lSQTJ6STlaVXZ0SWRKQWRUV0Q1VmRNV0xPc3NaM25HaGtLM1Z6bXdZcHFsYWlzMFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTY5NzExCWZpbGU6U2FtYmVlIENvbXBhbmlvbl8wLjguMF94NjQtc2V0dXAuZXhlCjh2UVFjSE1qNmFLNW5RSCtrUjZUUnQ0U21oaEFmM1lXU2dONUFwRGRNeUNSMDl2dGdlMndnak5JYXhZaXFSdDJ2d0dlT09XUWhpajdJZXNRWGgzcENRPT0K",
+      "url": "https://github.com/helgeklein/sambee-companion/releases/download/companion-v0.8.0/Sambee.Companion_0.8.0_x64-setup.exe"
     }
   },
-  "pub_date": "2026-05-25T08:46:20Z",
-  "version": "0.7.0"
+  "pub_date": "2026-07-20T18:08:03Z",
+  "version": "0.8.0"
 }
