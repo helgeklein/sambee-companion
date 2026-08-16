@@ -1,0 +1,21 @@
+{
+  "channels": {
+    "beta": {
+      "published_at": "2026-07-20T18:08:03Z",
+      "version": "0.8.0"
+    },
+    "sambee": {
+      "published_at": "2026-07-20T18:08:03Z",
+      "version": "0.8.0"
+    },
+    "stable": {
+      "published_at": "2026-07-20T18:08:03Z",
+      "version": "0.8.0"
+    },
+    "test": {
+      "published_at": "2026-08-16T14:17:47Z",
+      "version": "1.0.2"
+    }
+  },
+  "schema_version": 1
+}
